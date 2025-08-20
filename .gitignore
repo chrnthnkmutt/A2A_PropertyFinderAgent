@@ -41,6 +41,9 @@ ScaffoldingReadMe.txt
 *~
 CodeCoverage/
 
+# Environment files
+A2A_PropertyClient/.env
+
 # MSBuild Binary and Structured Log
 *.binlog
 
