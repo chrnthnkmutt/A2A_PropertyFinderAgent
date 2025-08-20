@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\boatc\\OneDrive\\Desktop\\A2A_PropertyFinder\\A2A_PropertyAgent\\A2AAgent.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\boatc\\OneDrive\\Desktop\\A2A_PropertyFinder\\A2A_PropertyAgent\\A2AAgent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\boatc\\OneDrive\\Desktop\\A2A_PropertyFinder\\A2A_PropertyAgent\\A2AAgent.csproj",
+        "projectName": "A2AAgent",
+        "projectPath": "C:\\Users\\boatc\\OneDrive\\Desktop\\A2A_PropertyFinder\\A2A_PropertyAgent\\A2AAgent.csproj",
+        "packagesPath": "C:\\Users\\boatc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\boatc\\OneDrive\\Desktop\\A2A_PropertyFinder\\A2A_PropertyAgent\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\boatc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Users\\boatc\\AppData\\Roaming\\NuGet\\FEED_URL": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "A2A": {
+              "target": "Package",
+              "version": "[0.1.0-preview.2, )"
+            },
+            "A2A.AspNetCore": {
+              "target": "Package",
+              "version": "[0.1.0-preview.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

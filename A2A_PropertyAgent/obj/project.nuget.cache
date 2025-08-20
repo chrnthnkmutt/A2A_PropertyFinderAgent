@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqPgQ+yOKSI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\boatc\\OneDrive\\Desktop\\A2A_PropertyFinder\\A2A_PropertyAgent\\A2AAgent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boatc\\.nuget\\packages\\a2a\\0.1.0-preview.2\\a2a.0.1.0-preview.2.nupkg.sha512",
+    "C:\\Users\\boatc\\.nuget\\packages\\a2a.aspnetcore\\0.1.0-preview.2\\a2a.aspnetcore.0.1.0-preview.2.nupkg.sha512",
+    "C:\\Users\\boatc\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.6\\microsoft.extensions.caching.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\boatc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.6\\microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
+    "C:\\Users\\boatc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\boatc\\.nuget\\packages\\microsoft.extensions.logging\\9.0.6\\microsoft.extensions.logging.9.0.6.nupkg.sha512",
+    "C:\\Users\\boatc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.6\\microsoft.extensions.logging.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\boatc\\.nuget\\packages\\microsoft.extensions.options\\9.0.6\\microsoft.extensions.options.9.0.6.nupkg.sha512",
+    "C:\\Users\\boatc\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.6\\microsoft.extensions.primitives.9.0.6.nupkg.sha512",
+    "C:\\Users\\boatc\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.6\\system.diagnostics.diagnosticsource.9.0.6.nupkg.sha512",
+    "C:\\Users\\boatc\\.nuget\\packages\\system.linq.asyncenumerable\\10.0.0-preview.5.25277.114\\system.linq.asyncenumerable.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "C:\\Users\\boatc\\.nuget\\packages\\system.net.serversentevents\\10.0.0-preview.5.25277.114\\system.net.serversentevents.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "C:\\Users\\boatc\\.nuget\\packages\\system.threading.channels\\9.0.7\\system.threading.channels.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
